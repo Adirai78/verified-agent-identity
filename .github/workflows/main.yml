@@ -5,13 +5,13 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'lokie'
+        description: 'adi67'
         required: true
-        default: 'lokie'
+        default: 'adi67'
       agent_description:
-        description: 'lokie'
+        description: 'adi67'
         required: true
-        default: 'lokie AI Agent'
+        default: 'adi67 AI Agent'
 
 jobs:
   verify:
